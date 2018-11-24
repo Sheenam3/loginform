@@ -1,6 +1,6 @@
 <html>
     <head>
-    <title>My first PHP Website</title>
+    <title>Web</title>
     </head>
     <body>
         <?php
