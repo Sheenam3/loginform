@@ -16,5 +16,14 @@ if(!isset($_SESSION['user_id']) || !isset($_SESSION['logged_in'])){
  * Print out something that only logged in users can see.
  */
  
-echo 'Here you go!!! Welcome!';
+echo 'Here you go!!! Welcome!'; 
+
+
+
+       
 ?>
+
+<br/>
+<br/>
+
+<a href="logout.php">Click here to go logout</a><br/><br/>
